@@ -3,7 +3,7 @@ Nama   : Rifat Pratama
 NIM    : 2330511050
 Prodi  : Teknik Informatika 1C
 
-500+ vocabulary English to Indonesia :
+500+ vocabularies English to Indonesia :
 1.	3D printing - Percetakan 3D
 2.	3G - 3G
 3.	4G - 4G
