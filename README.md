@@ -1,4 +1,4 @@
-# kamusinggris
+# KamusInggris
 Nama   : Rifat Pratama
 NIM    : 2330511050
 Prodi  : Teknik Informatika 1C
